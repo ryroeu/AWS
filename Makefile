@@ -1,5 +1,4 @@
 .PHONY: check
 
 check:
-	./tests/smoke.sh
-
+	./Tests/smoke.sh
